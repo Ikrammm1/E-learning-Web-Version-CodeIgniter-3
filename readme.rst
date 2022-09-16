@@ -68,3 +68,10 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+***************
+The Contents of This System
+***************
+
+in this system there are 3 access rights, the first admin, the second teacher and the other last student.
+This system was created to fulfill my practical work assignment with a case study of SMKN 2 Barabai. this system has not been implemented in the school. if you want to use this system, you are welcome to change the components according to your needs.
