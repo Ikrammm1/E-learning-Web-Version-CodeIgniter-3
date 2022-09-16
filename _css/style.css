@@ -1,0 +1,17 @@
+html, body {
+  /* height : 100%; */
+  /* background-color: #222d32 !important; */
+  background: url(https://foto.data.kemdikbud.go.id/getImage/30311683/6.jpg) no-repeat;
+  /* background: src="./assets/_image/bg_smk.jpg" no-repeat; */
+  background-size: cover;
+
+}
+
+.global_container{
+  height: 100%;
+ /* background-color: black; */
+  display : flex;
+  align-items: center;
+  justify-content: center;
+
+}
