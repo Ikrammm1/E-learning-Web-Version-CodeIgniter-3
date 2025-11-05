@@ -79,4 +79,6 @@ This system was created to fulfill my practical work assignment with a case stud
 ***************
 Details Pages
 ***************
+
+![image](https://github.com/Ikrammm1/E-learning-Web-Version-CodeIgniter-3/blob/dc7fec37559058452011f6ebdacad68c275f3509/Screenshot%202025-11-05%20150124.png)
 ![login](https://github.com/Ikrammm1/E-learning-Web-Version-CodeIgniter-3/blob/dc7fec37559058452011f6ebdacad68c275f3509/Screenshot%202025-11-05%20150124.png)
