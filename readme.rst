@@ -75,3 +75,8 @@ The Contents of This System
 
 in this system there are 3 access rights, the first admin, the second teacher and the other last student.
 This system was created to fulfill my practical work assignment with a case study of SMKN 2 Barabai. this system has not been implemented in the school. if you want to use this system, you are welcome to change the components according to your needs.
+
+***************
+Details Pages
+***************
+![login](https://github.com/Ikrammm1/E-learning-Web-Version-CodeIgniter-3/blob/dc7fec37559058452011f6ebdacad68c275f3509/Screenshot%202025-11-05%20150124.png)
